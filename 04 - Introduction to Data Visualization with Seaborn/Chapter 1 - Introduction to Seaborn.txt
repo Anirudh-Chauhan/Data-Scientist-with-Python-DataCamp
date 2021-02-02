@@ -1,0 +1,60 @@
+1.Making a scatter plot with lists
+# Import Matplotlib and Seaborn
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Change this scatter plot to have percent literate on the y-axis
+sns.scatterplot(x=gdp, y=percent_literate)
+
+# Show plot
+plt.show()
+_________________________________________________________________________________
+2.Making a count plot with a list
+# Import Matplotlib and Seaborn
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+
+# Create count plot with region on the y-axis
+sns.countplot(y=region)
+
+# Show plot
+plt.show()
+_________________________________________________________________________________
+3."Tidy" vs. "untidy" data
+# Import Pandas
+import pandas as pd
+
+# Create a DataFrame from csv file
+df= pd.read_csv(csv_filepath)
+
+# Print the head of df
+print(df.head())
+_________________________________________________________________________________
+4.Making a count plot with a DataFrame
+# Import Matplotlib, Pandas, and Seaborn
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# Create a DataFrame from csv file
+df=pd.read_csv(csv_filepath)
+
+# Create a count plot with "Spiders" on the x-axis
+sns.countplot(x="Spiders",data=df)
+
+# Display the plot
+plt.show()
+_________________________________________________________________________________
+5.Hue and scatter plots
+# Import Matplotlib and Seaborn
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Change the legend order in the scatter plot
+sns.scatterplot(x="absences", y="G3", data=student_data,hue="location" , hue_order=["Rural","Urban"])
+
+
+# Show plot
+plt.show()
+_________________________________________________________________________________
