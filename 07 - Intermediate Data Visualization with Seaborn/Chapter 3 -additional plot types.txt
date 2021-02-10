@@ -1,0 +1,150 @@
+1.stripplot() and swarmplot()
+# Create the stripplot
+sns.stripplot(data=df,
+         x='Award_Amount',
+         y='Model Selected',
+         jitter=True)
+
+plt.show()
+/*********/
+# Create and display a swarmplot with hue set to the Region
+sns.swarmplot(data=df,
+         x='Award_Amount',
+         y='Model Selected',
+         hue='Region')
+
+plt.show()
+___________________________________________________________________
+2.boxplots, violinplots and lvplots
+# Create a boxplot
+sns.boxplot(data=df,
+         x='Award_Amount',
+         y='Model Selected')
+
+plt.show()
+plt.clf()
+/***************/
+# Create a violinplot with the husl palette
+sns.violinplot(data=df,
+         x='Award_Amount',
+         y='Model Selected',
+         palette='husl')
+
+plt.show()
+plt.clf()
+/****************/
+# Create a lvplot with the Paired palette and the Region column as the hue
+sns.lvplot(data=df,
+         x='Award_Amount',
+         y='Model Selected',
+         palette='Paired',
+         hue='Region')
+
+plt.show()
+plt.clf()
+___________________________________________________________________
+3.Regression and residual plots
+# Display a regression plot for Tuition
+sns.regplot(data=df,
+         y='Tuition',
+         x="SAT_AVG_ALL",
+         marker='^',
+         color='g')
+
+plt.show()
+plt.clf()
+/**************/
+# Display the residual plot
+sns.residplot(data=df,
+          y='Tuition',
+          x="SAT_AVG_ALL",
+          color='g')
+
+plt.show()
+plt.clf()
+___________________________________________________________________
+4.Regression plot parameters
+# Plot a regression plot of Tuition and the Percentage of Pell Grants
+sns.regplot(data=df,
+            y='Tuition',
+            x="PCTPELL")
+
+plt.show()
+plt.clf()
+/**************/
+# Create another plot that estimates the tuition by PCTPELL
+sns.regplot(data=df,
+            y='Tuition',
+            x='PCTPELL',
+            x_bins=5)
+
+plt.show()
+plt.clf()
+/****************/
+# The final plot should include a line using a 2nd order polynomial
+sns.regplot(data=df,
+            y='Tuition',
+            x="PCTPELL",
+            x_bins=5,
+            order=2)
+
+plt.show()
+plt.clf()
+___________________________________________________________________
+5.Binning data
+# Create a scatter plot by disabling the regression line
+sns.regplot(data=df,
+            y='Tuition',
+            x="UG",
+            fit_reg=False)
+
+plt.show()
+plt.clf()
+/************/
+# Create a scatter plot and bin the data into 5 bins
+sns.regplot(data=df,
+            y='Tuition',
+            x="UG",
+            x_bins=5)
+
+plt.show()
+plt.clf()
+/************/
+# Create a regplot and bin the data into 8 bins
+sns.regplot(data=df,
+         y='Tuition',
+         x="UG",
+         x_bins=8)
+
+plt.show()
+plt.clf()
+___________________________________________________________________
+6.Creating heatmaps
+# Create a crosstab table of the data
+pd_crosstab = pd.crosstab(df["Group"], df["YEAR"])
+print(pd_crosstab)
+
+# Plot a heatmap of the table
+sns.heatmap(pd_crosstab)
+
+# Rotate tick marks for visibility
+plt.yticks(rotation=0)
+plt.xticks(rotation=90)
+
+plt.show()
+___________________________________________________________________
+7.Customizing heatmaps
+# Create the crosstab DataFrame
+pd_crosstab = pd.crosstab(df["Group"], df["YEAR"])
+
+# Plot a heatmap of the table with no color bar and using the BuGn palette
+sns.heatmap(pd_crosstab, cbar=False, cmap="BuGn", linewidths=0.3)
+
+# Rotate tick marks for visibility
+plt.yticks(rotation=0)
+plt.xticks(rotation=90)
+
+#Show the plot
+plt.show()
+plt.clf()
+___________________________________________________________________
