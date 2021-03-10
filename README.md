@@ -50,30 +50,29 @@
             iii) Chapter 3 - Advanced data problems
              iv) Chapter 4 - Record Linkage
 ### 11. <a href="https://github.com/Anirudh-Chauhan/Data-Scientist-with-Python-DataCamp/tree/main/11%20-%20Working%20with%20Dates%20and%20Times%20in%20Python">Working with Dates and Times in Python</a>
-              i) Chapter 1 - 
-             ii) Chapter 2 -
-            iii) Chapter 3 - 
-             iv) Chapter 4 -
+              i) Chapter 1 - Dates and Calenders 
+             ii) Chapter 2 - Combining dates and times
+            iii) Chapter 3 - time zones and daylight saving
 ### 12. <a href="https://github.com/Anirudh-Chauhan/Data-Scientist-with-Python-DataCamp/tree/main/12%20-%20Writing%20functions%20in%20Python">Writing Functions in Python</a>
-              i) Chapter 1 - 
-             ii) Chapter 2 -
-            iii) Chapter 3 - 
-             iv) Chapter 4 -
+              i) Chapter 1 - Best Practices
+             ii) Chapter 2 - Using Context Managers
+            iii) Chapter 3 - Decorators 
+             iv) Chapter 4 - More on Decorators
 ### 13. <a href="https://github.com/Anirudh-Chauhan/Data-Scientist-with-Python-DataCamp/tree/main/13%20-%20Exploratory%20Data%20Analysis%20in%20Python">Exploratory Data Analysis in Python</a>
-              i) Chapter 1 - 
-             ii) Chapter 2 -
-            iii) Chapter 3 - 
-             iv) Chapter 4 -
+              i) Chapter 1 -  Read clean and validate
+             ii) Chapter 2 - Distributions
+            iii) Chapter 3 - Relationships 
+             iv) Chapter 4 - Multivariate Thinking
 ### 14. <a href="https://github.com/Anirudh-Chauhan/Data-Scientist-with-Python-DataCamp/tree/main/14%20-%20Analyzing%20Police%20Activity%20with%20pandas">Analyzing Police Activity with Pandas</a>
-              i) Chapter 1 - 
-             ii) Chapter 2 -
-            iii) Chapter 3 - 
-             iv) Chapter 4 -
+              i) Chapter 1 - preparing data for analysis
+             ii) Chapter 2 - Exploring the Relationship between gender and policing
+            iii) Chapter 3 - Visual Exploratory data analysis 
+             iv) Chapter 4 - Analyzing the effect of weather on policing
 ### 15. <a href="https://github.com/Anirudh-Chauhan/Data-Scientist-with-Python-DataCamp/tree/main/15%20-%20Statistical%20Thinking%20in%20Python%20(Part%201)">Statistical Thinking in Python (Part 1)</a>
-              i) Chapter 1 - 
-             ii) Chapter 2 -
-            iii) Chapter 3 - 
-             iv) Chapter 4 -
+              i) Chapter 1 - Graphical Exploratory Data Analysis 
+             ii) Chapter 2 - Quantitative Exploratory Data Analysis
+            iii) Chapter 3 - Thinking probabilistically discrete variables 
+             iv) Chapter 4 -  Thinking probabilistically continuous variables
 ### 16. <a href="https://github.com/Anirudh-Chauhan/Data-Scientist-with-Python-DataCamp/tree/main/16%20-%20Statistical%20Thinking%20in%20Python%20(Part%202)">Statistical Thinking in Python (Part 2)</a>
               i) Chapter 1 - 
              ii) Chapter 2 -
