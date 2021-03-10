@@ -28,30 +28,27 @@
              ii) Chapter 2 - Default arguments variable length arguments and scope
             iii) Chapter 3 - lambda functions and error handling
 ### 6. <a href="https://github.com/Anirudh-Chauhan/Data-Scientist-with-Python-DataCamp/tree/main/06%20-%20Python%20Data%20Science%20Toolbox%20(Part%202)">Python Data Science Toolbox(Part 2)</a>
-              i) Chapter 1 - 
-             ii) Chapter 2 -
-            iii) Chapter 3 - 
-             iv) Chapter 4 -
+              i) Chapter 1 - Using Iterators in Pythonland 
+             ii) Chapter 2 - List Comprehensions and Generators
+            iii) Chapter 3 - Bringing it all together
 ### 7. <a href="https://github.com/Anirudh-Chauhan/Data-Scientist-with-Python-DataCamp/tree/main/07%20-%20Intermediate%20Data%20Visualization%20with%20Seaborn">Intermediate Data Visualization using Seaborn</a>
-              i) Chapter 1 - 
-             ii) Chapter 2 -
-            iii) Chapter 3 - 
-             iv) Chapter 4 -
+              i) Chapter 1 - seaborn introduction
+             ii) Chapter 2 - Customizing Seaborn plots
+            iii) Chapter 3 - additional plot types
+             iv) Chapter 4 - creating plots on data aware grids
 ### 8. <a href="https://github.com/Anirudh-Chauhan/Data-Scientist-with-Python-DataCamp/tree/main/08%20-%20Introduction%20to%20Import%20data%20in%20python">Introduction to Import Data in Python</a> 
-              i) Chapter 1 - 
-             ii) Chapter 2 -
-            iii) Chapter 3 - 
-             iv) Chapter 4 -
+              i) Chapter 1 - introduction and flat files 
+             ii) Chapter 2 - importing data from other file types 
+            iii) Chapter 3 - working with relational databases in python
 ### 9. <a href="https://github.com/Anirudh-Chauhan/Data-Scientist-with-Python-DataCamp/tree/main/09%20-%20Intermediate%20importing%20%20data%20in%20python">Intermediate importing Data in Python</a>
-              i) Chapter 1 - 
-             ii) Chapter 2 -
-            iii) Chapter 3 - 
-             iv) Chapter 4 -
+              i) Chapter 1 - Importing data from the Internet
+             ii) Chapter 2 - intracting with apis to import data from web
+            iii) Chapter 3 - Diving deep into the twitter api
 ### 10. <a href="https://github.com/Anirudh-Chauhan/Data-Scientist-with-Python-DataCamp/tree/main/10%20-%20Cleaning%20Data%20in%20Python">Cleaning Data in Python</a>
-              i) Chapter 1 - 
-             ii) Chapter 2 -
-            iii) Chapter 3 - 
-             iv) Chapter 4 -
+              i) Chapter 1 - Common Data Problems
+             ii) Chapter 2 - Text and categorical data problems
+            iii) Chapter 3 - Advanced data problems
+             iv) Chapter 4 - Record Linkage
 ### 11. <a href="https://github.com/Anirudh-Chauhan/Data-Scientist-with-Python-DataCamp/tree/main/11%20-%20Working%20with%20Dates%20and%20Times%20in%20Python">Working with Dates and Times in Python</a>
               i) Chapter 1 - 
              ii) Chapter 2 -
