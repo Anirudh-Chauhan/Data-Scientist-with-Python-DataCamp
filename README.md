@@ -74,27 +74,27 @@
             iii) Chapter 3 - Thinking probabilistically discrete variables 
              iv) Chapter 4 -  Thinking probabilistically continuous variables
 ### 16. <a href="https://github.com/Anirudh-Chauhan/Data-Scientist-with-Python-DataCamp/tree/main/16%20-%20Statistical%20Thinking%20in%20Python%20(Part%202)">Statistical Thinking in Python (Part 2)</a>
-              i) Chapter 1 - 
-             ii) Chapter 2 -
-            iii) Chapter 3 - 
-             iv) Chapter 4 -
+              i) Chapter 1 - Parameter estimation by optimization
+             ii) Chapter 2 - Bootstrap confidence intervals
+            iii) Chapter 3 - Introduction to hypothesis testing 
 ### 17. <a href="https://github.com/Anirudh-Chauhan/Data-Scientist-with-Python-DataCamp/tree/main/17%20-%20Supervised%20Learning%20with%20Scikit-learn">Supervised Learning with Scikit-learn</a></a>
-              i) Chapter 1 - 
-             ii) Chapter 2 -
-            iii) Chapter 3 - 
-             iv) Chapter 4 -
+              i) Chapter 1 - Classification
+             ii) Chapter 2 - Regression
+            iii) Chapter 3 - Fine Tuning your model 
+             iv) Chapter 4 - Preprocessing and Pipelines
 ### 18. <a href="https://github.com/Anirudh-Chauhan/Data-Scientist-with-Python-DataCamp/tree/main/18%20-%20Unsupervised%20Learning%20in%20Python">Unsupervised Learning with Scikit-learn</a>
-              i) Chapter 1 - 
-             ii) Chapter 2 -
-            iii) Chapter 3 - 
-             iv) Chapter 4 -
+              i) Chapter 1 - Clustering for dataset exploration 
+             ii) Chapter 2 - Visualization with Hierarchical clustering and t-sne
+            iii) Chapter 3 - Decorrelating your data and dimension reduction 
+             iv) Chapter 4 - Discovering Interpretable features
 ### 19. <a href="https://github.com/Anirudh-Chauhan/Data-Scientist-with-Python-DataCamp/tree/main/19%20-%20Machine%20learning%20with%20tree-based%20models%20in%20python">Machine learning with tree-based models in Python</a></a>
-              i) Chapter 1 - 
-             ii) Chapter 2 -
-            iii) Chapter 3 - 
-             iv) Chapter 4 -
+              i) Chapter 1 - Classification and regression trees 
+             ii) Chapter 2 - The bias-variance Tradeoff
+            iii) Chapter 3 - Bagging and Random Forests 
+             iv) Chapter 4 - Boosting
+              v) Chapter 5 - Model Tuning
 ### 20. <a href="https://github.com/Anirudh-Chauhan/Data-Scientist-with-Python-DataCamp/tree/main/20%20-%20Cluster%20Analysis%20in%20Python">Cluster Analysis in Python</a>
-              i) Chapter 1 - 
-             ii) Chapter 2 -
-            iii) Chapter 3 - 
-             iv) Chapter 4 -
+              i) Chapter 1 - Introduction to clustering 
+             ii) Chapter 2 - Hierarchical Clustering
+            iii) Chapter 3 - K-means Clustering 
+             iv) Chapter 4 - Clustering in Real World
