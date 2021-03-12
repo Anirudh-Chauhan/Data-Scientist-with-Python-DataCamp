@@ -1,5 +1,8 @@
 # Data Science with Python DataCamp
 
+This is the work from my learnings from the <a href="https://www.datacamp.com/tracks/data-scientist-with-python"> Data Science with Python</a> course offered by <a href="https://www.datacamp.com/"> DataCamp</a>. This was a really helpful course as it starts from the very basics to some advanced concepts with hands on practice on some projects also.  
+
+
 ## Table of Contents :
 
 ### 1. <a href="https://github.com/Anirudh-Chauhan/Data-Scientist-with-Python-DataCamp/tree/main/01%20-%20Introduction%20to%20Python">Introduction To Python</a>
